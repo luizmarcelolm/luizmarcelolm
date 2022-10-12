@@ -26,7 +26,7 @@
     <a
     target="_blank"
     style="text-decoration: none"
-    href="https://github.com/luizmarcelolm?tab=stars"
+    href="https://github.com/luizmarcelolm"
     >Meus repositórios</a>
   </h2>
 </div>
