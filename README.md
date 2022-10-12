@@ -1,4 +1,4 @@
-# Olá!!! Sou Luiz Marcelo Mota
+# Olá!!! Sou Luiz Marcelo Mota ✋
 
 -  FORMAÇÃO EM ENGENHARIA DA COMPUTAÇÃO.
 -  CURSANDO DESENVOLVIMENTO FULLSTACK.
