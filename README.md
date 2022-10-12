@@ -1,10 +1,9 @@
-<div align = "center">
 # Olá!!! Sou Luiz Marcelo Mota
 
 -  TENHO FORMAÇÃO EM ENGENHARIA DA COMPUTAÇÃO.
 -  ESTOU CURSANDO DESENVOLVIMENTO FULLSTACK.
 -  ESTUDANDO | REACT | JAVASCRIPT | CSS | HTML | BOOTSTRAP.
-</div>
+
 <br>
 <div align = "center">
   <a href="https://github.com/luizmarcelolm">
