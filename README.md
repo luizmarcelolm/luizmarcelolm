@@ -21,13 +21,4 @@
 <a href="https://git.io/streak-stats">
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=luizmarcelolm&theme=nightowl"/> 
 </div>
-<div align='center'>
-  <h2>
-    <a
-    target="_blank"
-    style="text-decoration: none"
-    href="https://github.com/luizmarcelolm"
-    >Meus repositórios</a>
-  </h2>
-</div>
 
