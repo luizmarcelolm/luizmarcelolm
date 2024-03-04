@@ -1,4 +1,4 @@
-# Olá!!! Sou Luiz Marcelo Mota DEV FULLSTACK✋
+# Olá!!! Sou Luiz Marcelo Mota - DEV FULLSTACK✋
 
 -  FORMAÇÃO EM ENGENHARIA DA COMPUTAÇÃO.
 -  CURSANDO DESENVOLVIMENTO FULLSTACK.
