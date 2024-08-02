@@ -1,7 +1,7 @@
 # Olá!!! Sou Luiz Marcelo Mota - DEV FULLSTACK✋
 
 -  FORMAÇÃO EM ENGENHARIA DA COMPUTAÇÃO.
--  CURSANDO DESENVOLVIMENTO FULLSTACK.
+-  DESENVOLVIMENTO FULLSTACK.
 <div align = "left">
   <a href="https://www.linkedin.com/in/luizmarcelomota/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
