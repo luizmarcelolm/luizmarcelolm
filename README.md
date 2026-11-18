@@ -23,6 +23,12 @@ Engenheiro da Computação. Desenvolvo automações e integrações entre sistem
 **[Orçamentos LM](https://github.com/orcamento-saas/orcamento-frontend)**: SaaS para criar, enviar e acompanhar orçamentos, com assinatura digital do cliente, geração de PDF, painel administrativo e planos pagos via Pix e cartão (Asaas).
 `Next.js` `TypeScript` `Tailwind` `Supabase` `Asaas`
 
+## 🌐 Sites para pequenos negócios
+
+- **Loja de velas artesanais**: site de vendas com catálogo de produtos
+- **Portfólio de músico**: site de apresentação do artista e do seu trabalho
+- **Loja de produtos em madeira**: site de vendas de peças artesanais
+
 ## 🛠️ Ferramentas que utilizo
 
 **Automação e dados**
