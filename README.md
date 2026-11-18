@@ -25,9 +25,9 @@ Engenheiro da Computação. Desenvolvo automações e integrações entre sistem
 
 ## 🌐 Sites para pequenos negócios
 
-- **Loja de velas artesanais**: site de vendas com catálogo de produtos
-- **Portfólio de músico**: site de apresentação do artista e do seu trabalho
-- **Loja de produtos em madeira**: site de vendas de peças artesanais
+- **[Luisa Enfeites](https://luisa-enfeites.vercel.app/)**: loja de velas artesanais
+- **[José Luiz Mota](https://jose-luiz-mota-marques.vercel.app/)**: portfólio de músico
+- **[Luís Cláudio Artesão](https://luis-claudio-artesao.vercel.app/)**: loja de produtos em madeira
 
 ## 🛠️ Ferramentas que utilizo
 
